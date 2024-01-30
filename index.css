@@ -3,7 +3,17 @@ header {
     align-items: center;
     justify-content: space-between;
 }
-
+div {
+    width: 16%;
+}
+#bouton_sabonner {
+    background-color: #EAB002;
+    margin: 10px;
+}
+#bouton_sabonner:hover {
+    background-color: #bcaa26;
+    cursor: pointer;
+}
 #blockidentification{
     display: flex;
 }
